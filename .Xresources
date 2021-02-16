@@ -1,5 +1,5 @@
 xterm*faceName: DejaVu Sans Mono Bold:style=Bold
-xterm*faceSize: 16
+xterm*faceSize: 10
 
 xterm*foreground: #F8F8F2
 xterm*background: #282A36
